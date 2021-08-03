@@ -1,0 +1,197 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch yo",
+            "request": "launch",
+            "mainClass": "yo",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Helloworld",
+            "request": "launch",
+            "mainClass": "Helloworld",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch helloworld",
+            "request": "launch",
+            "mainClass": "helloworld",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test30",
+            "request": "launch",
+            "mainClass": "Test30",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Goat",
+            "request": "launch",
+            "mainClass": "Goat",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Football",
+            "request": "launch",
+            "mainClass": "Football",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Family",
+            "request": "launch",
+            "mainClass": "Family",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch String",
+            "request": "launch",
+            "mainClass": "String",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BeerSong",
+            "request": "launch",
+            "mainClass": "BeerSong",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch If_else2",
+            "request": "launch",
+            "mainClass": "If_else2",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch if_else",
+            "request": "launch",
+            "mainClass": "if_else",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch If",
+            "request": "launch",
+            "mainClass": "If",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loopy",
+            "request": "launch",
+            "mainClass": "Loopy",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWrold",
+            "request": "launch",
+            "mainClass": "HelloWrold",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Time",
+            "request": "launch",
+            "mainClass": "Time",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1",
+            "request": "launch",
+            "mainClass": "Q1",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestOverloading1",
+            "request": "launch",
+            "mainClass": "TestOverloading1",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch data",
+            "request": "launch",
+            "mainClass": "data",
+            "projectName": "c c++_86b46a7f"
+        },
+        {
+            "name": "gcc.exe - Build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: gcc.exe build active file"
+        }
+    ]
+}
